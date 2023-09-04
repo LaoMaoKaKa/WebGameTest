@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1</Version>
+  <ABList Path="Assets/Hotfix/Config/Buff_Config.asset" Crc="2669583554" ABName="Config" AssetName="Buff_Config.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/Bullets.asset" Crc="1761888306" ABName="Config" AssetName="Bullets.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/EnemyType.asset" Crc="2998483855" ABName="Config" AssetName="EnemyType.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/Language.asset" Crc="3588334977" ABName="Config" AssetName="Language.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/Level_Config.asset" Crc="1960299398" ABName="Config" AssetName="Level_Config.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/Map_Level.asset" Crc="1525356918" ABName="Config" AssetName="Map_Level.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/Player_Level.asset" Crc="1144992289" ABName="Config" AssetName="Player_Level.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/Prop_Config.asset" Crc="3999908513" ABName="Config" AssetName="Prop_Config.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/Shop_Config.asset" Crc="582790440" ABName="Config" AssetName="Shop_Config.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Config/TreasureChest.asset" Crc="2398957087" ABName="Config" AssetName="TreasureChest.asset" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Effect/Animation/Enemy1_Death.anim" Crc="3689916132" ABName="Effect" AssetName="Enemy1_Death.anim" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Effect/Animation/Enemy1_Death.controller" Crc="4058440750" ABName="Effect" AssetName="Enemy1_Death.controller" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Effect/Animation/Enemy5.controller" Crc="920115238" ABName="Effect" AssetName="Enemy5.controller" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Effect/Animation/Enemy5_Walk.anim" Crc="2150588714" ABName="Effect" AssetName="Enemy5_Walk.anim" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Font/ThaleahFat_TTF.ttf" Crc="1523617067" ABName="Font" AssetName="ThaleahFat_TTF.ttf" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Font/方正像素12.TTF" Crc="3277137611" ABName="Font" AssetName="方正像素12.TTF" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Font/方正像素24.TTF" Crc="1868734537" ABName="Font" AssetName="方正像素24.TTF" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/bg01.png" Crc="4154027589" ABName="Image" AssetName="bg01.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/bg1.png" Crc="141909275" ABName="Image" AssetName="bg1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/bg2.png" Crc="2220738718" ABName="Image" AssetName="bg2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/bg3.png" Crc="1944419911" ABName="Image" AssetName="bg3.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/bg_ta.png" Crc="1228769876" ABName="Image" AssetName="bg_ta.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/main_player1.png" Crc="3421229621" ABName="Image" AssetName="main_player1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/main_player2.png" Crc="3991085714" ABName="Image" AssetName="main_player2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Battle/map1.png" Crc="2859019229" ABName="Image" AssetName="map1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Main/8 Stars.png" Crc="4059582771" ABName="Image" AssetName="8 Stars.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Bg/Main/8 Stars2.png" Crc="234287219" ABName="Image" AssetName="8 Stars2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/AgeTips/1.png" Crc="1951464075" ABName="Image" AssetName="1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/AgeTips/2.png" Crc="2227764031" ABName="Image" AssetName="2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/AgeTips/3.png" Crc="1563719817" ABName="Image" AssetName="3.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Battle_TopInfo/menu-line.png" Crc="1282417820" ABName="Image" AssetName="menu-line.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Battle_TopInfo/xueTiao.png" Crc="935453834" ABName="Image" AssetName="xueTiao.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Battle_TopInfo/xueTiaoBg.png" Crc="1053252313" ABName="Image" AssetName="xueTiaoBg.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Battle_TopInfo/z2.png" Crc="529310119" ABName="Image" AssetName="z2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Button/setting.png" Crc="1742725700" ABName="Image" AssetName="setting.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Button/share-line.png" Crc="1741239727" ABName="Image" AssetName="share-line.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Button/store-3-line.png" Crc="3166681575" ABName="Image" AssetName="store-3-line.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/EnterGameView/bgArtboard 31.png" Crc="1724153089" ABName="Image" AssetName="bgArtboard 31.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/EnterGameView/bgArtboard 32.png" Crc="1863365617" ABName="Image" AssetName="bgArtboard 32.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Icon/00289-218617218-Icon, Lucky Wheel.png" Crc="3848742743" ABName="Image" AssetName="00289-218617218-Icon, Lucky Wheel.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Icon/00305-3960988465-Trophy icon, gold, HD.png" Crc="2484542598" ABName="Image" AssetName="00305-3960988465-Trophy icon, gold, HD.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Icon/00312-2141758959-Gatling icon, high-definition.png" Crc="2844056595" ABName="Image" AssetName="00312-2141758959-Gatling icon, high-definition.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Icon/00341-2134656950-Bubble icon, high-definition.png" Crc="2122543815" ABName="Image" AssetName="00341-2134656950-Bubble icon, high-definition.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Icon/icon_home.png" Crc="3770850664" ABName="Image" AssetName="icon_home.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Icon/icon_jinbi.png" Crc="3860291997" ABName="Image" AssetName="icon_jinbi.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Icon/icon_zhuanshi.png" Crc="3132673604" ABName="Image" AssetName="icon_zhuanshi.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Logo/Logo_MTF.png" Crc="486143864" ABName="Image" AssetName="Logo_MTF.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/SettingView/gage_a_empty.png" Crc="3209798407" ABName="Image" AssetName="gage_a_empty.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/SettingView/gage_b_fill02.png" Crc="2827812554" ABName="Image" AssetName="gage_b_fill02.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/Close Button.png" Crc="679131365" ABName="Image" AssetName="Close Button.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/Exclamation_Gray.png" Crc="2143394872" ABName="Image" AssetName="Exclamation_Gray.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/Exclamation_Red.png" Crc="3216404898" ABName="Image" AssetName="Exclamation_Red.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/Exclamation_Yellow.png" Crc="3421728706" ABName="Image" AssetName="Exclamation_Yellow.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/IRONY TITLE  empty.png" Crc="2270592867" ABName="Image" AssetName="IRONY TITLE  empty.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/TextBTN_Medium.png" Crc="1801566042" ABName="Image" AssetName="TextBTN_Medium.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/TextBTN_Medium_Pressed.png" Crc="2103666720" ABName="Image" AssetName="TextBTN_Medium_Pressed.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/UI board Medium  parchment.png" Crc="2854078726" ABName="Image" AssetName="UI board Medium  parchment.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/UI/Window/UI board Medium stone.png" Crc="3915009259" ABName="Image" AssetName="UI board Medium stone.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/bullet.png" Crc="3104685531" ABName="Image" AssetName="bullet.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/bullet1.png" Crc="3941877683" ABName="Image" AssetName="bullet1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/bullet2.png" Crc="145706181" ABName="Image" AssetName="bullet2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/bullet3.png" Crc="3177678553" ABName="Image" AssetName="bullet3.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/bullet4.png" Crc="407514969" ABName="Image" AssetName="bullet4.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/bullet5.png" Crc="3135820539" ABName="Image" AssetName="bullet5.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/sprBullet1_0.png" Crc="3723537874" ABName="Image" AssetName="sprBullet1_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/sprBullet2_0.png" Crc="673022652" ABName="Image" AssetName="sprBullet2_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/sprBullet2_1.png" Crc="861742378" ABName="Image" AssetName="sprBullet2_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/sprBulletHit_0.png" Crc="80160812" ABName="Image" AssetName="sprBulletHit_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/sprBulletHit_1.png" Crc="2938085029" ABName="Image" AssetName="sprBulletHit_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Bullet/sprBulletHit_2.png" Crc="3068477840" ABName="Image" AssetName="sprBulletHit_2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_1.png" Crc="3197529852" ABName="Image" AssetName="enemy_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_10.png" Crc="1222065233" ABName="Image" AssetName="enemy_10.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_11.png" Crc="1376580715" ABName="Image" AssetName="enemy_11.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_12.png" Crc="2224419038" ABName="Image" AssetName="enemy_12.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_13.png" Crc="4120014794" ABName="Image" AssetName="enemy_13.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_14.png" Crc="159309702" ABName="Image" AssetName="enemy_14.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_15.png" Crc="1627235968" ABName="Image" AssetName="enemy_15.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_16.png" Crc="2151954439" ABName="Image" AssetName="enemy_16.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_17.png" Crc="2691295071" ABName="Image" AssetName="enemy_17.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_18.png" Crc="3918345050" ABName="Image" AssetName="enemy_18.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_19.png" Crc="2394896725" ABName="Image" AssetName="enemy_19.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_2.png" Crc="2749271075" ABName="Image" AssetName="enemy_2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_20.png" Crc="3021959713" ABName="Image" AssetName="enemy_20.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_21.png" Crc="3341785740" ABName="Image" AssetName="enemy_21.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_22.png" Crc="798455378" ABName="Image" AssetName="enemy_22.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_23.png" Crc="290425331" ABName="Image" AssetName="enemy_23.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_24.png" Crc="4125539845" ABName="Image" AssetName="enemy_24.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_25.png" Crc="1766069328" ABName="Image" AssetName="enemy_25.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_3.png" Crc="1531613644" ABName="Image" AssetName="enemy_3.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_4.png" Crc="1003506088" ABName="Image" AssetName="enemy_4.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_5.png" Crc="1681957513" ABName="Image" AssetName="enemy_5.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_6.png" Crc="317792109" ABName="Image" AssetName="enemy_6.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_7.png" Crc="171974542" ABName="Image" AssetName="enemy_7.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_8.png" Crc="4082043802" ABName="Image" AssetName="enemy_8.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/enemy_9.png" Crc="3118331959" ABName="Image" AssetName="enemy_9.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Ohter/baoxiang.png" Crc="3803676893" ABName="Image" AssetName="baoxiang.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Ohter/bg_item1.png" Crc="371062438" ABName="Image" AssetName="bg_item1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Ohter/daoshi.png" Crc="3658908014" ABName="Image" AssetName="daoshi.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Ohter/picwish.png" Crc="3099278006" ABName="Image" AssetName="picwish.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Ohter/sprExplosion_0.png" Crc="4182227998" ABName="Image" AssetName="sprExplosion_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Ohter/sprExplosion_1.png" Crc="1597906158" ABName="Image" AssetName="sprExplosion_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Ohter/virus.png" Crc="2093545736" ABName="Image" AssetName="virus.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyCorpse_0.png" Crc="2767996361" ABName="Image" AssetName="sprEnemyCorpse_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyCorpse_1.png" Crc="1598276374" ABName="Image" AssetName="sprEnemyCorpse_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyCorpse_2.png" Crc="2332723471" ABName="Image" AssetName="sprEnemyCorpse_2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyHurt_0.png" Crc="3291180323" ABName="Image" AssetName="sprEnemyHurt_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyHurt_1.png" Crc="3704087899" ABName="Image" AssetName="sprEnemyHurt_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyJump_0.png" Crc="2912077305" ABName="Image" AssetName="sprEnemyJump_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyJump_1.png" Crc="1174455821" ABName="Image" AssetName="sprEnemyJump_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyJump_2.png" Crc="2908135350" ABName="Image" AssetName="sprEnemyJump_2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyWalk_0.png" Crc="1091072768" ABName="Image" AssetName="sprEnemyWalk_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyWalk_1.png" Crc="1680238490" ABName="Image" AssetName="sprEnemyWalk_1.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemyWalk_2.png" Crc="2866416239" ABName="Image" AssetName="sprEnemyWalk_2.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Image/Units/Enemy/A/sprEnemy_0.png" Crc="1295034648" ABName="Image" AssetName="sprEnemy_0.png" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Other/HpBar.mat" Crc="2743250097" ABName="Other" AssetName="HpBar.mat" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Other/HpBarShader.shader" Crc="136827537" ABName="Other" AssetName="HpBarShader.shader" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Other/Other.txt" Crc="347827187" ABName="Other" AssetName="Other.txt" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/Com/HP.prefab" Crc="1504320821" ABName="Prefab" AssetName="HP.prefab" Encryption="false">
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/DeBugView.prefab" Crc="1042106661" ABName="Prefab" AssetName="DeBugView.prefab" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/View/EnterGameView.prefab" Crc="991753476" ABName="Prefab" AssetName="EnterGameView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/MainView.prefab" Crc="123828539" ABName="Prefab" AssetName="MainView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/SettingView.prefab" Crc="2827620531" ABName="Prefab" AssetName="SettingView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/StopView.prefab" Crc="895309407" ABName="Prefab" AssetName="StopView.prefab" Encryption="false">
+    <ABDependce>Font</ABDependce>
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/TalentView.prefab" Crc="365349613" ABName="Prefab" AssetName="TalentView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Boss0.prefab" Crc="4293637693" ABName="Prefab" AssetName="Boss0.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Boss1.prefab" Crc="1556992823" ABName="Prefab" AssetName="Boss1.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy0.prefab" Crc="2902373902" ABName="Prefab" AssetName="Enemy0.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy1.prefab" Crc="1523567313" ABName="Prefab" AssetName="Enemy1.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy2.prefab" Crc="127553895" ABName="Prefab" AssetName="Enemy2.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy3.prefab" Crc="2413147533" ABName="Prefab" AssetName="Enemy3.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy4.prefab" Crc="4232582328" ABName="Prefab" AssetName="Enemy4.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy5.prefab" Crc="1221623693" ABName="Prefab" AssetName="Enemy5.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy6.prefab" Crc="3231168958" ABName="Prefab" AssetName="Enemy6.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Enemy7.prefab" Crc="2339568130" ABName="Prefab" AssetName="Enemy7.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Map/M_Level1.prefab" Crc="623414486" ABName="Prefab" AssetName="M_Level1.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Map/M_LevelBase.prefab" Crc="28591326" ABName="Prefab" AssetName="M_LevelBase.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Other/Boom.prefab" Crc="2972190149" ABName="Prefab" AssetName="Boom.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/M_Player.prefab" Crc="170712182" ABName="Prefab" AssetName="M_Player.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/BattleView/BattleFailPopupView.prefab" Crc="2603793253" ABName="Prefab" AssetName="BattleFailPopupView.prefab" Encryption="false">
+    <ABDependce>Font</ABDependce>
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/BattleView/BattleResultPopupView.prefab" Crc="2513553585" ABName="Prefab" AssetName="BattleResultPopupView.prefab" Encryption="false">
+    <ABDependce>Font</ABDependce>
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/BattleView/BattleView.prefab" Crc="4283932241" ABName="Prefab" AssetName="BattleView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Other</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/BattleView/Box.prefab" Crc="629993359" ABName="Prefab" AssetName="Box.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/BattleView/BuffView.prefab" Crc="1573045194" ABName="Prefab" AssetName="BuffView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/BattleView/M_BuffItem.prefab" Crc="3703304075" ABName="Prefab" AssetName="M_BuffItem.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/CommomView/CommonPopupView.prefab" Crc="3089147661" ABName="Prefab" AssetName="CommonPopupView.prefab" Encryption="false">
+    <ABDependce>Font</ABDependce>
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/CommomView/RewardView.prefab" Crc="732241780" ABName="Prefab" AssetName="RewardView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/HallView.prefab" Crc="1181226432" ABName="Prefab" AssetName="HallView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/Hall_BattleView.prefab" Crc="3818880128" ABName="Prefab" AssetName="Hall_BattleView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/Hall_MainView.prefab" Crc="1121830412" ABName="Prefab" AssetName="Hall_MainView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/Hall_PlayerInfoView.prefab" Crc="4003172813" ABName="Prefab" AssetName="Hall_PlayerInfoView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/Hall_ShoppingView.prefab" Crc="1478716961" ABName="Prefab" AssetName="Hall_ShoppingView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/Hall_WeaponView.prefab" Crc="3538673486" ABName="Prefab" AssetName="Hall_WeaponView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/OpenBoxView.prefab" Crc="2408914562" ABName="Prefab" AssetName="OpenBoxView.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/Shop_CommodityItem.prefab" Crc="965858229" ABName="Prefab" AssetName="Shop_CommodityItem.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+    <ABDependce>Font</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/View/HallView/WeaponItem.prefab" Crc="3808306725" ABName="Prefab" AssetName="WeaponItem.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Bullet/EnemyAttcom1.prefab" Crc="2804076696" ABName="Prefab" AssetName="EnemyAttcom1.prefab" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Bullet/EnemyAttcom2.prefab" Crc="3123596843" ABName="Prefab" AssetName="EnemyAttcom2.prefab" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Bullet/EnemyBulletBae.prefab" Crc="681968990" ABName="Prefab" AssetName="EnemyBulletBae.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Bullet/EnemyBulletBae01.prefab" Crc="534767723" ABName="Prefab" AssetName="EnemyBulletBae01.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Enemy/Bullet/EnemyBulletBae02.prefab" Crc="818083360" ABName="Prefab" AssetName="EnemyBulletBae02.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/AttackCom10001.prefab" Crc="280784520" ABName="Prefab" AssetName="AttackCom10001.prefab" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/AttackCom10002.prefab" Crc="2136635018" ABName="Prefab" AssetName="AttackCom10002.prefab" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/AttackCom10003.prefab" Crc="1566749911" ABName="Prefab" AssetName="AttackCom10003.prefab" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/AttackComBase.prefab" Crc="275898749" ABName="Prefab" AssetName="AttackComBase.prefab" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/Bullet0.prefab" Crc="3748004587" ABName="Prefab" AssetName="Bullet0.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/Bullet1.prefab" Crc="684706822" ABName="Prefab" AssetName="Bullet1.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/Bullet2.prefab" Crc="1702689170" ABName="Prefab" AssetName="Bullet2.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/Bullet3.prefab" Crc="4232399874" ABName="Prefab" AssetName="Bullet3.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/Bullet4.prefab" Crc="319250604" ABName="Prefab" AssetName="Bullet4.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Prefab/Unit/Player/Bullet/Bullet5.prefab" Crc="2097696548" ABName="Prefab" AssetName="Bullet5.prefab" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Scene/Battle.unity" Crc="1970633095" ABName="Scene" AssetName="Battle.unity" Encryption="false">
+    <ABDependce>Image</ABDependce>
+  </ABList>
+  <ABList Path="Assets/Hotfix/Scene/Hall.unity" Crc="1775841243" ABName="Scene" AssetName="Hall.unity" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Shader/Common_Shader.shader" Crc="1745304369" ABName="Shader" AssetName="Common_Shader.shader" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/BGM/BGM_01.wav" Crc="1561262157" ABName="Sound" AssetName="BGM_01.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/BGM/BGM_02.wav" Crc="1981878756" ABName="Sound" AssetName="BGM_02.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/BGM/BGM_03.wav" Crc="170668254" ABName="Sound" AssetName="BGM_03.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/BGM/BGM_04.wav" Crc="1684414687" ABName="Sound" AssetName="BGM_04.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/laser_01.wav" Crc="1323696355" ABName="Sound" AssetName="laser_01.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/PlayLogo.wav" Crc="3859486205" ABName="Sound" AssetName="PlayLogo.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndDeath.wav" Crc="2037680432" ABName="Sound" AssetName="sndDeath.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndDeathBass.wav" Crc="1074073790" ABName="Sound" AssetName="sndDeathBass.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndDeathPlayer.wav" Crc="2557666454" ABName="Sound" AssetName="sndDeathPlayer.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndExplosion.wav" Crc="4015471493" ABName="Sound" AssetName="sndExplosion.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndFire.wav" Crc="2063156821" ABName="Sound" AssetName="sndFire.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndFireBass.wav" Crc="1978013766" ABName="Sound" AssetName="sndFireBass.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndHurt.wav" Crc="4162298590" ABName="Sound" AssetName="sndHurt.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Sound/Effect/sndJump.wav" Crc="1296364091" ABName="Sound" AssetName="sndJump.wav" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Unit/Unit.txt" Crc="3434560490" ABName="Unit" AssetName="Unit.txt" Encryption="false" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/LuaLunch.lua.txt" Crc="769646558" ABName="Scripts_lua" AssetName="LuaLunch.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Main.lua.txt" Crc="2909381407" ABName="Scripts_lua" AssetName="Main.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Test.lua.txt" Crc="2826281459" ABName="Scripts_lua" AssetName="Test.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/.vscode/settings.json" Crc="2508257196" ABName="Scripts_lua" AssetName="settings.json" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Base/ObjBase.lua.txt" Crc="3265773434" ABName="Scripts_lua" AssetName="ObjBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Base/UIBase.lua.txt" Crc="1721791989" ABName="Scripts_lua" AssetName="UIBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Base/UnitBase.lua.txt" Crc="609501931" ABName="Scripts_lua" AssetName="UnitBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Base/UnitComBase.lua.txt" Crc="3449965707" ABName="Scripts_lua" AssetName="UnitComBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Base/ViewBase.lua.txt" Crc="839203013" ABName="Scripts_lua" AssetName="ViewBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/Action.lua.txt" Crc="3097351739" ABName="Scripts_lua" AssetName="Action.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/define.lua.txt" Crc="1277268294" ABName="Scripts_lua" AssetName="define.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/functions.lua.txt" Crc="316755948" ABName="Scripts_lua" AssetName="functions.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/GameobjectPool.lua.txt" Crc="255660628" ABName="Scripts_lua" AssetName="GameobjectPool.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/NotificationCenter.lua.txt" Crc="1761781207" ABName="Scripts_lua" AssetName="NotificationCenter.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/ObjectPool.lua.txt" Crc="1486391202" ABName="Scripts_lua" AssetName="ObjectPool.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/table.lua.txt" Crc="872818439" ABName="Scripts_lua" AssetName="table.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Common/Util.lua.txt" Crc="538038840" ABName="Scripts_lua" AssetName="Util.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/FSM/FSMStateBase.lua.txt" Crc="1614055381" ABName="Scripts_lua" AssetName="FSMStateBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/FSM/FSMSystem.lua.txt" Crc="3195150311" ABName="Scripts_lua" AssetName="FSMSystem.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Interface/ObjectInterface.lua.txt" Crc="3302219560" ABName="Scripts_lua" AssetName="ObjectInterface.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Interface/UpdateInterface.lua.txt" Crc="3904233161" ABName="Scripts_lua" AssetName="UpdateInterface.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/LuaEx/Class.lua.txt" Crc="2076227927" ABName="Scripts_lua" AssetName="Class.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/LuaEx/json.lua.txt" Crc="142864795" ABName="Scripts_lua" AssetName="json.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/LuaEx/list.lua.txt" Crc="2634706682" ABName="Scripts_lua" AssetName="list.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/LuaEx/middleclass.lua.txt" Crc="4242127321" ABName="Scripts_lua" AssetName="middleclass.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/LuaEx/UpdateRunner.lua.txt" Crc="614659713" ABName="Scripts_lua" AssetName="UpdateRunner.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/LuaEx/xluaUtil.lua.txt" Crc="1354784765" ABName="Scripts_lua" AssetName="xluaUtil.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/LocalDataManager.lua.txt" Crc="2207160728" ABName="Scripts_lua" AssetName="LocalDataManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/ManagerCenter.lua.txt" Crc="272562937" ABName="Scripts_lua" AssetName="ManagerCenter.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/ModuleManager.lua.txt" Crc="2255595186" ABName="Scripts_lua" AssetName="ModuleManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/NetworkManager.lua.txt" Crc="463942329" ABName="Scripts_lua" AssetName="NetworkManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/ResourceManager.lua.txt" Crc="3868812224" ABName="Scripts_lua" AssetName="ResourceManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/SoundManager.lua.txt" Crc="3916289711" ABName="Scripts_lua" AssetName="SoundManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/UIManager.lua.txt" Crc="2732271324" ABName="Scripts_lua" AssetName="UIManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/UnitManager.lua.txt" Crc="299374891" ABName="Scripts_lua" AssetName="UnitManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Manager/ViewManager.lua.txt" Crc="2979546406" ABName="Scripts_lua" AssetName="ViewManager.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Net/NetTools.lua.txt" Crc="2476811138" ABName="Scripts_lua" AssetName="NetTools.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/Framework/Net/Socket.lua" Crc="1233180509" ABName="Scripts_lua" AssetName="Socket.lua" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Common/Tools.lua.txt" Crc="264182207" ABName="Scripts_lua" AssetName="Tools.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/CommonConfig.lua.txt" Crc="336713654" ABName="Scripts_lua" AssetName="CommonConfig.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/ConfigCenter.lua.txt" Crc="377582573" ABName="Scripts_lua" AssetName="ConfigCenter.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/GameEnum.lua.txt" Crc="2712459177" ABName="Scripts_lua" AssetName="GameEnum.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/GameEvents.lua.txt" Crc="3641877515" ABName="Scripts_lua" AssetName="GameEvents.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/Language.lua.txt" Crc="878958128" ABName="Scripts_lua" AssetName="Language.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/LevelConfig.lua.txt" Crc="1721867597" ABName="Scripts_lua" AssetName="LevelConfig.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/MapConfig.lua.txt" Crc="2242583260" ABName="Scripts_lua" AssetName="MapConfig.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/SoundConfig.lua.txt" Crc="977130121" ABName="Scripts_lua" AssetName="SoundConfig.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Module/BattleModule.lua.txt" Crc="1161167264" ABName="Scripts_lua" AssetName="BattleModule.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Module/GameModule.lua.txt" Crc="3790281290" ABName="Scripts_lua" AssetName="GameModule.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Module/NetworkModule.lua.txt" Crc="2383566427" ABName="Scripts_lua" AssetName="NetworkModule.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Module/PropModule.lua.txt" Crc="901355201" ABName="Scripts_lua" AssetName="PropModule.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Module/UserModule.lua.txt" Crc="2152404831" ABName="Scripts_lua" AssetName="UserModule.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView.lua.txt" Crc="734350759" ABName="Scripts_lua" AssetName="BattleView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/CommonPopupView.lua.txt" Crc="2153425241" ABName="Scripts_lua" AssetName="CommonPopupView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/EnterGameView.lua.txt" Crc="3971589321" ABName="Scripts_lua" AssetName="EnterGameView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/HallView.lua.txt" Crc="1348445900" ABName="Scripts_lua" AssetName="HallView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/MainView.lua.txt" Crc="3799668201" ABName="Scripts_lua" AssetName="MainView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/Popup_StopMenuView.lua.txt" Crc="248664064" ABName="Scripts_lua" AssetName="Popup_StopMenuView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/Popup_TerminusView.lua.txt" Crc="1300116010" ABName="Scripts_lua" AssetName="Popup_TerminusView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/SettingView.lua.txt" Crc="1440767365" ABName="Scripts_lua" AssetName="SettingView.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_Enemy1.lua.txt" Crc="3292811752" ABName="Scripts_lua" AssetName="Battle_Enemy1.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_EnemyBase.lua.txt" Crc="3618248873" ABName="Scripts_lua" AssetName="Battle_EnemyBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_Enemy_Bullet.lua.txt" Crc="3189936529" ABName="Scripts_lua" AssetName="Battle_Enemy_Bullet.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_Player_Bullet.lua.txt" Crc="3989111276" ABName="Scripts_lua" AssetName="Battle_Player_Bullet.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_Prop1.lua.txt" Crc="4218939888" ABName="Scripts_lua" AssetName="Battle_Prop1.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_Prop2.lua.txt" Crc="3401920521" ABName="Scripts_lua" AssetName="Battle_Prop2.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_Prop3.lua.txt" Crc="2624236987" ABName="Scripts_lua" AssetName="Battle_Prop3.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Battle_PropBase.lua.txt" Crc="1733302094" ABName="Scripts_lua" AssetName="Battle_PropBase.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/Player.lua.txt" Crc="3894263402" ABName="Scripts_lua" AssetName="Player.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/PlayerAttacksCom.lua.txt" Crc="1258404386" ABName="Scripts_lua" AssetName="PlayerAttacksCom.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/PlayerMoveCom.lua.txt" Crc="3383208329" ABName="Scripts_lua" AssetName="PlayerMoveCom.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UnitController/UnitHpCom.lua.txt" Crc="4224422422" ABName="Scripts_lua" AssetName="UnitHpCom.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Behaviour/Other/Cube.lua.txt" Crc="2394517005" ABName="Scripts_lua" AssetName="Cube.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Behaviour/Other/Cube2.lua.txt" Crc="1003217817" ABName="Scripts_lua" AssetName="Cube2.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Behaviour/Other/ThornCube.lua.txt" Crc="1100140955" ABName="Scripts_lua" AssetName="ThornCube.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Behaviour/Unit/AutoDestroyCube.lua.txt" Crc="655871540" ABName="Scripts_lua" AssetName="AutoDestroyCube.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/LevelConfigs/Level1.lua.txt" Crc="2300868056" ABName="Scripts_lua" AssetName="Level1.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/LevelConfigs/Level2.lua.txt" Crc="2798000540" ABName="Scripts_lua" AssetName="Level2.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/LevelConfigs/Level3.lua.txt" Crc="2696184445" ABName="Scripts_lua" AssetName="Level3.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/LevelConfigs/Level4.lua.txt" Crc="2697451048" ABName="Scripts_lua" AssetName="Level4.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/Config/LevelConfigs/Level5.lua.txt" Crc="2972648181" ABName="Scripts_lua" AssetName="Level5.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView/BattleView_Middle.lua.txt" Crc="2026770253" ABName="Scripts_lua" AssetName="BattleView_Middle.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView/BattleView_Middle_EnemyPoint.lua.txt" Crc="1592192809" ABName="Scripts_lua" AssetName="BattleView_Middle_EnemyPoint.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView/BattleView_Top.lua.txt" Crc="2629493391" ABName="Scripts_lua" AssetName="BattleView_Top.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView/BattleView_Top_Info.lua.txt" Crc="2397461293" ABName="Scripts_lua" AssetName="BattleView_Top_Info.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView/Battle_PlayerCon.lua.txt" Crc="484264881" ABName="Scripts_lua" AssetName="Battle_PlayerCon.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView/Battle_Player_Bullet.lua.txt" Crc="1155258588" ABName="Scripts_lua" AssetName="Battle_Player_Bullet.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/BattleView/Battle_Player_BulletCon.lua.txt" Crc="2682094989" ABName="Scripts_lua" AssetName="Battle_Player_BulletCon.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/Scripts_lua/GameLogic/UIController/MapView/Map_Level.lua.txt" Crc="789403064" ABName="Scripts_lua" AssetName="Map_Level.lua.txt" Encryption="true" />
+  <ABList Path="Assets/Hotfix/DLL/新建ss文本文档.txt" Crc="4294967295" ABName="DLL" AssetName="新建ss文本文档.txt" Encryption="true" />
+  <ABData Crc="4245296089" Size="6467" ABName="Config" Encryption="false" />
+  <ABData Crc="794783864" Size="10108" ABName="Effect" Encryption="false" />
+  <ABData Crc="1924825951" Size="1269336" ABName="Font" Encryption="false" />
+  <ABData Crc="3292805772" Size="5633097" ABName="Image" Encryption="false" />
+  <ABData Crc="3112765887" Size="19297" ABName="Other" Encryption="false" />
+  <ABData Crc="1660964268" Size="174126" ABName="Prefab" Encryption="false" />
+  <ABData Crc="1907358809" Size="112654" ABName="Scene" Encryption="false" />
+  <ABData Crc="2205616862" Size="50023" ABName="Shader" Encryption="false" />
+  <ABData Crc="82356581" Size="3228349" ABName="Sound" Encryption="false" />
+  <ABData Crc="75568659" Size="1174" ABName="Unit" Encryption="false" />
+  <ABData Crc="3462145202" Size="41301" ABName="Scripts_lua" Encryption="true" />
+  <ABData Crc="258798571" Size="1189" ABName="DLL" Encryption="true" />
+</AssetBundleConfig>
